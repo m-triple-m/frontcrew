@@ -1,0 +1,8 @@
+.login-bg{
+    min-height: 100vh;
+}
+
+input[type = text], input[type = password]{
+    background-color: #303a4b !important;
+    color: white !important;
+}
